@@ -32,16 +32,16 @@ The game allows the player to play multiple rounds against the computer and show
 ## Example Screenshots
 
 **Round Example:**
-![Round1 Example](images/round1.png)
+![Round1 Example](Images/round1.png)
 
 **Round Example:**
-![Round2 Example](images/round2.png)
+![Round2 Example](Images/round2.png)
 
 **Round Example:**
-![Round3 Example](images/round3.png)
+![Round3 Example](Images/round3.png)
 
 **Game Over Example:**
-![Game Over](images/gameOver.png)
+![Game Over](Images/gameOver.png)
 
 ---
 
